@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\src\\main.cpp.obj -c C:\\Users\\Salih\\Documents\\GitHub\\CPP_projects\\Parser\\src\\main.cpp",
+  "file": "C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\lib\\Parser.cpp.obj -c C:\\Users\\Salih\\Documents\\GitHub\\CPP_projects\\Parser\\lib\\Parser.cpp",
+  "file": "C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/lib/Parser.cpp",
+  "output": "CMakeFiles/MyProject.dir/lib/Parser.cpp.obj"
+},
+{
+  "directory": "C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\MyProject.dir\\lib\\Tokenizer.cpp.obj -c C:\\Users\\Salih\\Documents\\GitHub\\CPP_projects\\Parser\\lib\\Tokenizer.cpp",
+  "file": "C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/lib/Tokenizer.cpp",
+  "output": "CMakeFiles/MyProject.dir/lib/Tokenizer.cpp.obj"
+}
+]

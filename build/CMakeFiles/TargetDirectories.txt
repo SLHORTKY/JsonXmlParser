@@ -1,0 +1,3 @@
+C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/build/CMakeFiles/MyProject.dir
+C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/build/CMakeFiles/edit_cache.dir
+C:/Users/Salih/Documents/GitHub/CPP_projects/Parser/build/CMakeFiles/rebuild_cache.dir
