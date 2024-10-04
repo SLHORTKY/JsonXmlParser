@@ -1,0 +1,63 @@
+# C++ compiled object files, libraries, and executables
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.dll
+*.dylib
+*.lib
+*.obj
+*.pdb
+*.elf
+
+# C++ debugging files
+*.gch
+*.gdb_history
+
+# Static and shared libraries
+*.la
+*.lo
+*.lai
+
+# Generated files (e.g., from code generation tools)
+*.moc
+*.qrc
+*.rcc
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+*.qmake.cache
+
+# IDE-specific directories
+.vscode/
+.idea/
+*.code-workspace
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Backup or temporary files
+*~
+*.swp
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# Git
+!.gitignore
