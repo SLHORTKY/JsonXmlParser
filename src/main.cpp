@@ -14,17 +14,15 @@ int main(){
 
     std::string line;
     std::string jsonString;
-    int x = 0;
-
+    
     // Read the file line by line
     while (std::getline(file, line)) {
         jsonString += line;
-    
     }
     file.close();
     
     Parser parser;
-    Json::Object* obj = parser.ParseJson(jsonString);
+    Xml::Object* obj = parser.ParseXml(jsonString);
     std::cout <<obj->toXmlString() << std::endl;
     
     return 0;
